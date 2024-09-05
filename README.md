@@ -1,4 +1,4 @@
-## Hi there 👋
+## ILZ - BACKSTAGE
 
 <!--
 **MccXaccess/MccXaccess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 [![My Skills](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
 -->
-My skillset
+<p align="center"><b>My skillset</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,bash,cs,github,js,linux,nodejs,postgres" />
