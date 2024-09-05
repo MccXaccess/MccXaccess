@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
 [![My Skills](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
+-->
+My skillset
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bash,cs,github,js,linux,nodejs" />
+    <img src="https://skillicons.dev/icons?i=git,bash,cs,github,js,linux,nodejs,postgres" />
   </a>
 </p>
